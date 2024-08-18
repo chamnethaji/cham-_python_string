@@ -11,9 +11,6 @@
 **Reverse string**: Reverse a string without using the slicing function.
 
 **.**
-**Palindrome**: Check if a string is a palindrome without using a slicing function.
-
-**.**
 **Summ of Even ASCII values**: the ASCII values of even characters in a string.
 
 **Challenging  Questions**
@@ -37,6 +34,7 @@ Capitalize the first letter of each word in a string [Don't use Bulit_in+functio
 Find the frequency of each character in a string.
 
 **challenge->6**
+ finf if a string is a palindrome without using a slicing function.
 
 
 
