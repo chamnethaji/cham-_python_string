@@ -16,7 +16,7 @@
 **.**
 **Summ of Even ASCII values**: the ASCII values of even characters in a string.
 
-**Challenging  Questions **
+**Challenging  Questions**
 
 
 Here are some challenging questions. solve this and share your answers in the comment
